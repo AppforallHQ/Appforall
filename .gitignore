@@ -1,0 +1,9 @@
+.DS_Store
+Pods/
+Podfile.lock
+PROJECT.xcodeproj/xcuserdata/sadjad.xcuserdatad
+PROJECT.xcworkspace
+Crashlytics.framework/Modules
+PROJECT.xcodeproj/project.xcworkspace/xcshareddata
+PROJECT.xcodeproj/project.xcworkspace/xcuserdata
+PROJECT.xcodeproj/xcuserdata/amir.xcuserdatad/
